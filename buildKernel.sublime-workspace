@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"webkit",
+				"webkit-box-shadow"
+			],
+			[
+				"he",
+				"leftHeader"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"height",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1464,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vikram Tiwari/Documents/GitHub/sources/basicKernel/README.md",
+		"/D/Study/Kernel/Project/Main Branch/osfs01-master/boot.asm",
+		"/D/Study/Kernel/Project/Main Branch/osfs00-master/README.rst",
+		"/D/Study/Kernel/Project/Main Branch/osfs01-master/README.rst",
+		"/D/Study/Kernel/Project/Main Branch/osfs02-master/README.rst",
+		"/D/Study/Kernel/Project/Main Branch/osfs04-master/README.rst",
+		"/D/Study/Kernel/Project/Main Branch/osfs01-master/Makefile",
+		"/D/Study/Kernel/Project/Main Branch/osfs05-master/README.rst",
+		"/D/Study/Kernel/Project/Main Branch/osfs01-master/bochsrc",
+		"/C/Users/Vikram Tiwari/Desktop/New Text Document.txt",
+		"/C/xampp/htdocs/S/index.html",
+		"/C/xampp/htdocs/S/about.html",
+		"/C/xampp/htdocs/S/gallery.html",
+		"/C/xampp/htdocs/S/services.html",
+		"/C/xampp/htdocs/S/contacts.html",
+		"/C/xampp/htdocs/S/portfolio.html",
+		"/C/Users/Vikram Tiwari/Documents/Sublime Text 2/Read Me.txt",
+		"/C/xampp/htdocs/3D/calculator/index.html",
+		"/C/xampp/htdocs/3D/calculator/main.css",
+		"/C/xampp/htdocs/3D/calculator/calc.js",
+		"/D/Doing/r2 project/source.java",
+		"/I/Watch'.txt",
+		"/C/xampp/htdocs/S/privacy.html",
+		"/C/xampp/htdocs/S/googlea6fe97342b808499.html",
+		"/C/xampp/htdocs/S/techno.sublime-project",
+		"/D/Study/Technophile/Total Revenue",
+		"/C/xampp/htdocs/CodeBlocks",
+		"/C/xampp/htdocs/3D/pc.js",
+		"/C/xampp/htdocs/3D/pc.css",
+		"/C/xampp/htdocs/3D/main.css",
+		"/C/xampp/htdocs/3D/forms.html",
+		"/C/xampp/htdocs/3D/index.html",
+		"/C/xampp/htdocs/3D0/main.css",
+		"/C/xampp/htdocs/M/phonegap-1.1.0/phonegap-1.1.0/WP7/README.md",
+		"/C/xampp/htdocs/M/phonegap-1.1.0/phonegap-1.1.0/WP7/GapAppStarter/www/index.html",
+		"/C/xampp/htdocs/src/index.html",
+		"/C/xampp/htdocs/src/index.txt",
+		"/C/xampp/htdocs/apache_pb2.png",
+		"/C/xampp/htdocs/src/html5.css",
+		"/C/xampp/htdocs/S/sitemap.html",
+		"/C/xampp/htdocs/S/css/style.css",
+		"/C/Users/Vikram Tiwari/Desktop/phonegap-1.1.0/phonegap-1.1.0/WP7/README.md",
+		"/C/xampp/htdocs/mtechnophile/test/Current Version/index.html",
+		"/C/Users/Vikram Tiwari/Desktop/older/technophile.in/index.html",
+		"/C/xampp/htdocs/DT/Free Website Template Design Studio 2011/readme.txt",
+		"/C/Users/Vikram Tiwari/Desktop/check/move.js",
+		"/C/Users/Vikram Tiwari/Desktop/check/file.html",
+		"/C/xampp/htdocs/tv2/3d.css",
+		"/C/xampp/htdocs/gi/index.html",
+		"/E/Entertainment/Games/DMC/DISC A/DMC/HOW TO INSTALL.txt",
+		"/C/xampp/htdocs/tv2/trackMouse.js",
+		"/J/New Text Document.txt",
+		"/C/xampp/htdocs/tv2/main.html",
+		"/C/Users/Vikram Tiwari/Desktop/ping.bat",
+		"/H/New Text Document.txt",
+		"/C/Users/Vikram Tiwari/Downloads/README",
+		"/D/Study/Kernel/rough",
+		"/C/Users/Vikram Tiwari/Documents/GitHub/m.technophile.com/README",
+		"/C/Users/Vikram Tiwari/Desktop/Google Cover letter",
+		"/D/Study/Kernel/Setups/bochs-2.0.2.win32-bin/bochs-2.0.2/bochsrc-sample.txt",
+		"/D/Study/Kernel/Setups/bochs-2.0.2.win32-bin/bochs-2.0.2/bochsrc.txt",
+		"/C/Users/Vikram Tiwari/Desktop/Jump/Confimred Attendees for Map up",
+		"/D/Study/GDG/New folder/pxd result.txt",
+		"/D/Study/Kernel/Ver 0.001/bochsrc.txt",
+		"/C/Users/Vikram Tiwari/Desktop/Jump/Quotes",
+		"/D/Study/GDG/Contact Numbers"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Site",
+			">\n",
+			"pack",
+			"inside",
+			"main-box",
+			"inside",
+			"aside",
+			"span",
+			"h3",
+			"Marketing",
+			"evening",
+			"aside",
+			"wrapper",
+			"banner1",
+			"img1",
+			"team",
+			"aside"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Hello Kausor,"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 838.0,
+		"selected_items":
+		[
+		],
+		"width": 1440.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
