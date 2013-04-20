@@ -5,7 +5,7 @@
 # and then link them together into one ELF binary, 'kernel'
 # It uses a linker script, 'link.ld' to do this.
 
-SOURCES=boot.o main.o
+SOURCES=boot.o main.o monitor.o common.o
 
 CFLAGS=-nostdlib -nostdinc -fno-builtin -fno-stack-protector
 LDFLAGS=-Tlink.ld
