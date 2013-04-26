@@ -51,8 +51,49 @@
 			"file": "/C/Users/Vikram Tiwari/Desktop/IO13/all",
 			"settings":
 			{
-				"buffer_size": 2589,
+				"buffer_size": 4689,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes4(www.songs.pk).mp3",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes3(www.songs.pk).mp3",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes2(www.songs.pk).mp3",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Study/GDG/Cover Letters",
+			"settings":
+			{
+				"buffer_size": 4164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "GIVE A TRY TO FAT FLUSH WATER\n\n❥➥❥ You should drink at least three 8 oz glasses per day, they say the longer it sits, the better it tastes. You can eat them as well but they are intended as flavoring and still work, so that is a personal choice. The Vitamin C turns fat into fuel, the tangerine increases your sensitivity to insulin, and the cucumber makes you feel full. Try it for 10 days and see what you think\n\nIngredients (per 8 oz serving):\n8 oz Water\n1 slice Grapefruit\n1 tangerine\n½ cucumber, sliced\n2 peppermint leaves\nIce – as much as you like\n\nDirections:\n* Wash grapefruit, tangerine cucumber and peppermint leaves\n* Slice cucumber, grapefruit and tangerine (or peel) * Combine all ingredients (fruits, vegetables, 8 oz water, and ice) into a large pitcher\n* Stir & Enjoy!\n\n♥Like✔“Share”✔Tag✔Comment✔Repost✔God Bless♥\n\nℒℴѵℯ / Thanks ➸ All-Natural Weight Loss ➸ via Julie Daniluk ~ Julie Daniluk Nutrition\n\n\n\n\n\n\n\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Windows",
+				"name": "GIVE A TRY TO FAT FLUSH WATER"
 			}
 		}
 	],
@@ -80,6 +121,8 @@
 	},
 	"file_history":
 	[
+		"/D/Study/GDG/Google Cover letter",
+		"/D/Study/GDG/Cover Letters",
 		"/C/Users/Vikram Tiwari/Documents/GitHub/sources/basicKernel/README.md",
 		"/D/Study/Kernel/Project/Main Branch/osfs01-master/boot.asm",
 		"/D/Study/Kernel/Project/Main Branch/osfs00-master/README.rst",
@@ -197,7 +240,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -231,20 +274,150 @@
 					"file": "/C/Users/Vikram Tiwari/Desktop/IO13/all",
 					"settings":
 					{
-						"buffer_size": 2589,
+						"buffer_size": 4689,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2589,
-								1750
+								3106,
+								3106
 							]
 						],
 						"settings":
 						{
 							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 872.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes4(www.songs.pk).mp3",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes3(www.songs.pk).mp3",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes2(www.songs.pk).mp3",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Study/GDG/Cover Letters",
+					"settings":
+					{
+						"buffer_size": 4164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3720,
+								3175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"auto_name": "GIVE A TRY TO FAT FLUSH WATER",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
