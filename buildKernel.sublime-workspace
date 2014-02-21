@@ -39,63 +39,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 1464,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Vikram Tiwari/Desktop/IO13/all",
-			"settings":
-			{
-				"buffer_size": 4689,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes4(www.songs.pk).mp3",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes3(www.songs.pk).mp3",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes2(www.songs.pk).mp3",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Study/GDG/Cover Letters",
-			"settings":
-			{
-				"buffer_size": 4164,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "GIVE A TRY TO FAT FLUSH WATER\n\n❥➥❥ You should drink at least three 8 oz glasses per day, they say the longer it sits, the better it tastes. You can eat them as well but they are intended as flavoring and still work, so that is a personal choice. The Vitamin C turns fat into fuel, the tangerine increases your sensitivity to insulin, and the cucumber makes you feel full. Try it for 10 days and see what you think\n\nIngredients (per 8 oz serving):\n8 oz Water\n1 slice Grapefruit\n1 tangerine\n½ cucumber, sliced\n2 peppermint leaves\nIce – as much as you like\n\nDirections:\n* Wash grapefruit, tangerine cucumber and peppermint leaves\n* Slice cucumber, grapefruit and tangerine (or peel) * Combine all ingredients (fruits, vegetables, 8 oz water, and ice) into a large pitcher\n* Stir & Enjoy!\n\n♥Like✔“Share”✔Tag✔Comment✔Repost✔God Bless♥\n\nℒℴѵℯ / Thanks ➸ All-Natural Weight Loss ➸ via Julie Daniluk ~ Julie Daniluk Nutrition\n\n\n\n\n\n\n\n\n\n\n",
-			"settings":
-			{
-				"buffer_size": 927,
-				"line_ending": "Windows",
-				"name": "GIVE A TRY TO FAT FLUSH WATER"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -121,9 +64,125 @@
 	},
 	"file_history":
 	[
-		"/D/Study/GDG/Google Cover letter",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/make_initrd",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/make_initrd.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/update_image.sh",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/isr.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/kernel",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/kheap.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/kheap.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/kheap.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/link.ld",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/main.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/main.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/Makefile",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/monitor.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/monitor.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/monitor.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/multiboot.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/ordered_array.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/ordered_array.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/ordered_array.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/paging.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/paging.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/paging.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/process.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/process.s",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/syscall.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/syscall.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/syscall.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/task.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/task.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/task.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/timer.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/timer.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/timer.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/boot.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/boot.s",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/common.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/common.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/common.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/descriptor_tables.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/descriptor_tables.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/descriptor_tables.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/fs.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/test.txt",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/test2.txt",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/fs.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/fs.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/gdt.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/gdt.s",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/initrd.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/initrd.h",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/initrd.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/interrupt.o",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/interrupt.s",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/isr.c",
+		"/D/Study/Kernel/Research/05-01-13/JamesMolly/Compressed Source/user_mode/src/isr.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/timer.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/timer.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/timer.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/task.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/task.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/task.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/syscall.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/syscall.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/syscall.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/process.s",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/process.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/paging.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/paging.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/paging.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/ordered_array.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/ordered_array.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/ordered_array.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/multiboot.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/monitor.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/monitor.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/monitor.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/Makefile",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/main.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/main.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/link.ld",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/kheap.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/kheap.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/kheap.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/kernel",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/isr.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/isr.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/isr.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/interrupt.s",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/interrupt.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/initrd.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/initrd.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/initrd.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/gdt.s",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/gdt.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/fs.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/fs.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/fs.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/descriptor_tables.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/descriptor_tables.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/common.o",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/descriptor_tables.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/common.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/boot.s",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/common.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/Complete Source Code/boot.o",
 		"/D/Study/GDG/Cover Letters",
+		"/D/Study/GDG/Google Cover letter",
+		"/C/Users/Vikram Tiwari/Desktop/IO13/all",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/boot.s~",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/descriptor_tables.c",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/common.h",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/src/boot.s",
 		"/C/Users/Vikram Tiwari/Documents/GitHub/sources/basicKernel/README.md",
+		"/C/Users/Vikram Tiwari/Desktop/GIVE A TRY TO FAT FLUSH WATER",
+		"/C/Users/Vikram Tiwari/Desktop/Project Presentations/Hi",
+		"/C/Users/Vikram Tiwari/Desktop/Technophile Winners Certi",
+		"/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes2(www.songs.pk).mp3",
+		"/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes4(www.songs.pk).mp3",
+		"/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes3(www.songs.pk).mp3",
 		"/D/Study/Kernel/Project/Main Branch/osfs01-master/boot.asm",
 		"/D/Study/Kernel/Project/Main Branch/osfs00-master/README.rst",
 		"/D/Study/Kernel/Project/Main Branch/osfs01-master/README.rst",
@@ -132,63 +191,7 @@
 		"/D/Study/Kernel/Project/Main Branch/osfs01-master/Makefile",
 		"/D/Study/Kernel/Project/Main Branch/osfs05-master/README.rst",
 		"/D/Study/Kernel/Project/Main Branch/osfs01-master/bochsrc",
-		"/C/Users/Vikram Tiwari/Desktop/New Text Document.txt",
-		"/C/xampp/htdocs/S/index.html",
-		"/C/xampp/htdocs/S/about.html",
-		"/C/xampp/htdocs/S/gallery.html",
-		"/C/xampp/htdocs/S/services.html",
-		"/C/xampp/htdocs/S/contacts.html",
-		"/C/xampp/htdocs/S/portfolio.html",
-		"/C/Users/Vikram Tiwari/Documents/Sublime Text 2/Read Me.txt",
-		"/C/xampp/htdocs/3D/calculator/index.html",
-		"/C/xampp/htdocs/3D/calculator/main.css",
-		"/C/xampp/htdocs/3D/calculator/calc.js",
-		"/D/Doing/r2 project/source.java",
-		"/I/Watch'.txt",
-		"/C/xampp/htdocs/S/privacy.html",
-		"/C/xampp/htdocs/S/googlea6fe97342b808499.html",
-		"/C/xampp/htdocs/S/techno.sublime-project",
-		"/D/Study/Technophile/Total Revenue",
-		"/C/xampp/htdocs/CodeBlocks",
-		"/C/xampp/htdocs/3D/pc.js",
-		"/C/xampp/htdocs/3D/pc.css",
-		"/C/xampp/htdocs/3D/main.css",
-		"/C/xampp/htdocs/3D/forms.html",
-		"/C/xampp/htdocs/3D/index.html",
-		"/C/xampp/htdocs/3D0/main.css",
-		"/C/xampp/htdocs/M/phonegap-1.1.0/phonegap-1.1.0/WP7/README.md",
-		"/C/xampp/htdocs/M/phonegap-1.1.0/phonegap-1.1.0/WP7/GapAppStarter/www/index.html",
-		"/C/xampp/htdocs/src/index.html",
-		"/C/xampp/htdocs/src/index.txt",
-		"/C/xampp/htdocs/apache_pb2.png",
-		"/C/xampp/htdocs/src/html5.css",
-		"/C/xampp/htdocs/S/sitemap.html",
-		"/C/xampp/htdocs/S/css/style.css",
-		"/C/Users/Vikram Tiwari/Desktop/phonegap-1.1.0/phonegap-1.1.0/WP7/README.md",
-		"/C/xampp/htdocs/mtechnophile/test/Current Version/index.html",
-		"/C/Users/Vikram Tiwari/Desktop/older/technophile.in/index.html",
-		"/C/xampp/htdocs/DT/Free Website Template Design Studio 2011/readme.txt",
-		"/C/Users/Vikram Tiwari/Desktop/check/move.js",
-		"/C/Users/Vikram Tiwari/Desktop/check/file.html",
-		"/C/xampp/htdocs/tv2/3d.css",
-		"/C/xampp/htdocs/gi/index.html",
-		"/E/Entertainment/Games/DMC/DISC A/DMC/HOW TO INSTALL.txt",
-		"/C/xampp/htdocs/tv2/trackMouse.js",
-		"/J/New Text Document.txt",
-		"/C/xampp/htdocs/tv2/main.html",
-		"/C/Users/Vikram Tiwari/Desktop/ping.bat",
-		"/H/New Text Document.txt",
-		"/C/Users/Vikram Tiwari/Downloads/README",
-		"/D/Study/Kernel/rough",
-		"/C/Users/Vikram Tiwari/Documents/GitHub/m.technophile.com/README",
-		"/C/Users/Vikram Tiwari/Desktop/Google Cover letter",
-		"/D/Study/Kernel/Setups/bochs-2.0.2.win32-bin/bochs-2.0.2/bochsrc-sample.txt",
-		"/D/Study/Kernel/Setups/bochs-2.0.2.win32-bin/bochs-2.0.2/bochsrc.txt",
-		"/C/Users/Vikram Tiwari/Desktop/Jump/Confimred Attendees for Map up",
-		"/D/Study/GDG/New folder/pxd result.txt",
-		"/D/Study/Kernel/Ver 0.001/bochsrc.txt",
-		"/C/Users/Vikram Tiwari/Desktop/Jump/Quotes",
-		"/D/Study/GDG/Contact Numbers"
+		"/C/Users/Vikram Tiwari/Desktop/New Text Document.txt"
 	],
 	"find":
 	{
@@ -240,192 +243,8 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 1464,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								295,
-								295
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Vikram Tiwari/Desktop/IO13/all",
-					"settings":
-					{
-						"buffer_size": 4689,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3106,
-								3106
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 872.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes4(www.songs.pk).mp3",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes3(www.songs.pk).mp3",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/E/Entertainment/Musics/Hindi Albums/Movie Albums/Pardes/pardes2(www.songs.pk).mp3",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/D/Study/GDG/Cover Letters",
-					"settings":
-					{
-						"buffer_size": 4164,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3720,
-								3175
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 675.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"settings":
-					{
-						"buffer_size": 927,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								672,
-								672
-							]
-						],
-						"settings":
-						{
-							"auto_name": "GIVE A TRY TO FAT FLUSH WATER",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
